@@ -6,3 +6,8 @@
 
 ## Configuración del archivo named.conf.options
 ![Configuración named.conf.options](/doc/configuración-archivo-named.conf.options.png)
+
+## Configuración del archivo named.conf.local
+![Configuración named.conf.options](/doc/configuración-archivo-named.conf.local.png)
+
+## Creación del archivo de zona
