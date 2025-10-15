@@ -20,3 +20,10 @@
 
 ### Creación de la zona inversa
 ![Creación del archivo de zona](/doc/creación-archivo-zona-inversa.png)
+
+## Comprobación con dig
+![Comprobación con dig](/doc/comprobación-dig.png)
+#### Esta comprobación me estaba dando errores, ya que al poner la ip de windows 192.168.56.10
+#### no se me conectaba al servidor.
+#### He solucionado esto comprobando con la ip del servidor (127.0.0.1) y con esto he recibido
+#### El resultado esperado
