@@ -1,9 +1,9 @@
-zone "paco.test" {
+zone "paco.com" {
     type master;
-    file "/var/lib/bind/paco.test.dns";
+    file "/var/lib/bind/paco.com.dns";
 };
 
 zone "56.168.192.in-addr.arpa" {
     type master;
-    file "/var/lib/bind/paco.test.rev";
+    file "/var/lib/bind/paco.com.rev";
 };

@@ -1,0 +1,12 @@
+$TTL 86400
+@   IN  SOA ns.paco.com. admin.paco.com. (
+        1
+        3600
+        1800
+        604800
+        86400)
+;
+@       IN NS ns.paco.com.
+@       IN A  192.168.56.101
+@       IN A  192.168.56.101
+ns.paco.com.   IN A  192.168.56.101

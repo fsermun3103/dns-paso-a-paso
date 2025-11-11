@@ -5,7 +5,7 @@ acl confiables {
 options {
     directory "/var/cache/bind";
     allow-transfer { none; };
-    listen-on { 192.168.56.10; };
+    listen-on { 192.168.56.101; };
     listen-on-v6 { any; };
     allow-query { any; };
     recursion yes;
